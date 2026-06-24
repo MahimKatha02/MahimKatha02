@@ -1,7 +1,7 @@
 <div align="center">
-Hi, I'm Mahim Chowdhury Katha 👋
+Mahim Chowdhury Katha
 
-BSc CSE (Data Science) Graduate · Machine Learning & Computer Vision · Entrepreneur
+BSc CSE (Data Science) Graduate · Machine Learning & Computer Vision
 
 <a href="https://www.linkedin.com/in/mahim-chowdhury-katha02">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,21 +11,16 @@ BSc CSE (Data Science) Graduate · Machine Learning & Computer Vision · Entrepr
 </a>
 </div>
 
-👤 About Me
+About
+
+BSc graduate in Computer Science & Engineering (Data Science) from East West University, with hands-on experience in machine learning, deep learning, and computer vision. Completed five AI/ML research projects and three certifications, with four more in progress.
+
+Prior to this, founded and ran Purple Daze, a self-funded e-commerce business, for 2.7 years — managing operations, finances, and a small team. Currently seeking postgraduate or professional opportunities in Artificial Intelligence and Data Science.
 
 
-🎓 BSc in Computer Science & Engineering (Data Science) — East West University
-🧠 Hands-on experience in Machine Learning, Deep Learning & Computer Vision
-🔬 Completed 5 AI/ML research projects and 3 certifications, with 4 more in progress
-💼 Founder of Purple Daze, a self-funded e-commerce business (2.7+ years) — brings entrepreneurial drive, leadership, and operational know-how to every project
-🌱 Currently deepening my skills in networking, full-stack development, and applied AI
-🎯 Looking for postgraduate or professional opportunities in Artificial Intelligence & Data Science
+Technical Skills
 
-
-
-🛠️ Tech Stack
-
-Programming & ML
+Programming & Machine Learning
 
 Show Image
 Show Image
@@ -33,7 +28,7 @@ Show Image
 Show Image
 Show Image
 
-Web
+Web Development
 
 Show Image
 Show Image
@@ -48,27 +43,20 @@ Show Image
 Show Image
 
 
-🚀 Featured Projects
+Projects
 
-ProjectDescriptionTech🍅 Tomato Leaf Disease ClassificationCNN trained to classify tomato plant diseases from leaf images, with Grad-CAM for interpretability and full accuracy/precision/recall/F1 evaluationPyTorch CNN Grad-CAM Python🧱 Wall Crack DetectionAutomated structural defect detection using a CNN-based feature extraction pipeline, with a documented research reportPython CNN Image Processing🌾 Rice Varieties ClassificationMulti-class ML classifier with a complete preprocessing pipeline, evaluated using confusion matrix metricsPython Scikit-learn🚗 Smart Vehicle Parking FinderReal-time parking solution with occupancy-based dynamic pricing and a responsive frontendHTML CSS JavaScript🌐 Network Simulation ProjectsEnterprise LAN/WAN topologies with VLAN, RIP/OSPF routing, and ACL configurationCisco Packet Tracer
+ProjectDescriptionTech StackTomato Leaf Disease ClassificationTrained a CNN to classify tomato plant diseases from leaf images; applied Grad-CAM for model interpretability and evaluated using accuracy, precision, recall, and F1.PyTorch, CNN, Grad-CAM, PythonWall Crack DetectionResearched automated structural defect detection; implemented a CNN-based feature extraction pipeline with a documented research report.Python, CNN, Image ProcessingRice Varieties ClassificationBuilt a multi-class ML classifier with a full preprocessing pipeline, evaluated using confusion matrix metrics.Python, Scikit-learnSmart Vehicle Parking Finder with Dynamic PricingDeveloped a real-time parking solution with occupancy-based dynamic pricing and a responsive frontend interface.HTML, CSS, JavaScriptNetwork Simulation ProjectsDesigned and simulated enterprise LAN/WAN topologies including VLAN, RIP/OSPF routing, and ACL configuration.Cisco Packet Tracer
 
-
-📌 Replace the links above with your actual repo URLs once you push the project code — see the setup note at the end.
-
+Note: update the links above with your actual repository URLs once the project code is pushed.
 
 
+Certifications
 
-📜 Certifications
+Completed
 
-✅ Completed
+CertificationIssuerDateIntroduction to Python ProgrammingBohubrihi, Shikho TechnologiesAug 2025HTML5, CSS3 & Bootstrap 4 for Web DevelopmentBohubrihi, Shikho TechnologiesJun 2026Power BI Dashboard Mastery BundleAcademy of Business Professionals (ABP)May 2026
 
-
-Introduction to Python Programming — Bohubrihi, Shikho Technologies
-HTML5, CSS3 & Bootstrap 4 for Web Development — Bohubrihi, Shikho Technologies
-Power BI Dashboard Mastery Bundle — Academy of Business Professionals (ABP)
-
-
-📚 In Progress (Ostad Online Learning Platform)
+In Progress — Ostad Online Learning Platform
 
 
 Cisco & MikroTik Networking
@@ -78,7 +66,7 @@ AI & ML Bootcamp
 
 
 
-📊 GitHub Stats
+GitHub Statistics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MahimKatha02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -86,7 +74,7 @@ AI & ML Bootcamp
 <img src="https://streak-stats.demolab.com/?user=MahimKatha02&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
-📫 Let's Connect
+Contact
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mahim-chowdhury-katha02">
@@ -95,7 +83,8 @@ AI & ML Bootcamp
 <a href="mailto:sinthiyakotha870@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>
-<div align="center">
+<br /><br />
+
 <i>Open to AI / Data Science roles, internships, and collaborations.</i>
+
 </div>
