@@ -55,13 +55,11 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Tomato Leaf Disease Classification](https://github.com/MahimKatha02/tomato-leaf-disease-classification) | Trained a CNN to classify tomato plant diseases from leaf images; applied Grad-CAM for model interpretability and evaluated using accuracy, precision, recall, and F1. | PyTorch, CNN, Grad-CAM, Python |
-| [Wall Crack Detection](https://github.com/MahimKatha02/wall-crack-detection) | Researched automated structural defect detection; implemented a CNN-based feature extraction pipeline with a documented research report. | Python, CNN, Image Processing |
-| [Rice Varieties Classification](https://github.com/MahimKatha02/rice-varieties-classification) | Built a multi-class ML classifier with a full preprocessing pipeline, evaluated using confusion matrix metrics. | Python, Scikit-learn |
+| [Wall Crack Detection]((https://github.com/MahimKatha02/wallCrackWith2datasets)) | Researched automated structural defect detection; implemented a CNN-based feature extraction pipeline with a documented research report. | Python, CNN, Image Processing |
+| [Rice Varieties Classification]((https://github.com/MahimKatha02/RiceVarietiesBangladesh_Classification_CSE475_Project)) | Built a multi-class ML classifier with a full preprocessing pipeline, evaluated using confusion matrix metrics. | Python, Scikit-learn |
 | [Smart Vehicle Parking Finder with Dynamic Pricing](https://github.com/MahimKatha02/smart-vehicle-parking-finder) | Developed a real-time parking solution with occupancy-based dynamic pricing and a responsive frontend interface. | HTML, CSS, JavaScript |
 | [Network Simulation Projects](https://github.com/MahimKatha02/network-simulation-projects) | Designed and simulated enterprise LAN/WAN topologies including VLAN, RIP/OSPF routing, and ACL configuration. | Cisco Packet Tracer |
-
-- Note: update the links above with your actual repository URLs once the project code is pushed.
+| [Tomato Leaf Disease Classification](https://github.com/MahimKatha02/tomato-leaf-disease-classification) | Trained a CNN to classify tomato plant diseases from leaf images; applied Grad-CAM for model interpretability and evaluated using accuracy, precision, recall, and F1. | PyTorch, CNN, Grad-CAM, Python |
 
 ---
 
