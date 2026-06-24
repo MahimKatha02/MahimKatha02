@@ -60,6 +60,7 @@
 | [Smart Vehicle Parking Finder with Dynamic Pricing](https://github.com/MahimKatha02/smart-vehicle-parking-finder) | Developed a real-time parking solution with occupancy-based dynamic pricing and a responsive frontend interface. | HTML, CSS, JavaScript |
 | [Network Simulation Projects](https://github.com/MahimKatha02/network-simulation-projects) | Designed and simulated enterprise LAN/WAN topologies including VLAN, RIP/OSPF routing, and ACL configuration. | Cisco Packet Tracer |
 | [Tomato Leaf Disease Classification](https://github.com/MahimKatha02/tomato-leaf-disease-classification) | Trained a CNN to classify tomato plant diseases from leaf images; applied Grad-CAM for model interpretability and evaluated using accuracy, precision, recall, and F1. | PyTorch, CNN, Grad-CAM, Python |
+| [My First Portfolio Design Test](https://github.com/MahimKatha02/myProject_HTML) | Personal portfolio website prototype showcasing responsive web design, UI/UX concepts, and front-end development skills. | HTML, CSS |
 
 ---
 
