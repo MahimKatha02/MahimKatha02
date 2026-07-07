@@ -1,8 +1,10 @@
 <div align="center">
 
 # Mahim Chowdhury Katha
-
 ### BSc CSE (Data Science) Graduate · Machine Learning · Computer Vision · Full-Stack Web Development
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+
+
 
 <a href="https://mahim-katha-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Latest_Portfolio-Live-0A192F?style=for-the-badge" />
