@@ -55,6 +55,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [My First Portfolio Website](https://github.com/MahimKatha02/mahim-katha-portfolio) | A responsive personal portfolio website showcasing my profile, technical skills, featured projects, and front-end development experience through a clean and modern user interface. | HTML, CSS, TypeScript |
 | [Wall Crack Detection](https://github.com/MahimKatha02/wallCrackWith2datasets) | Researched automated structural defect detection; implemented a CNN-based feature extraction pipeline with a documented research report. | Python, CNN, Image Processing |
 | [Rice Varieties Classification](https://github.com/MahimKatha02/RiceVarietiesBangladesh_Classification_CSE475_Project) | Built a multi-class ML classifier with a full preprocessing pipeline, evaluated using confusion matrix metrics. | Python, Scikit-learn |
 | [Smart Vehicle Parking Finder with Dynamic Pricing](https://github.com/MahimKatha02/smart-vehicle-parking-finder) | Developed a real-time parking solution with occupancy-based dynamic pricing and a responsive frontend interface. | HTML, CSS, JavaScript |
