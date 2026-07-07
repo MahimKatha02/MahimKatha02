@@ -2,6 +2,7 @@
 
 # Mahim Chowdhury Katha
 ### BSc CSE (Data Science) Graduate
+
 ![Typing Animation](https://waveify.onrender.com/api/typing/classic?text=%C2%B7+Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+Computer+Networking+%C2%B7+Web+Development&speed=15&color=%2300ff00&backgroundColor=%23000000&fontSize=44&fontFamily=monospace&width=400&height=60&cursor=true&type=classic)
 
 <a href="https://mahim-katha-portfolio.vercel.app">
