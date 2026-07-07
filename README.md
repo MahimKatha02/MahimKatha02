@@ -28,8 +28,6 @@
 
 ---
 
----
-
 # 🎓 About
 
 - BSc in Computer Science & Engineering (Data Science) — East West University
