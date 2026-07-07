@@ -2,7 +2,26 @@
 
 # Mahim Chowdhury Katha
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line-neon.gif" width="95%">
+
 ### BSc CSE (Data Science) Graduate · Machine Learning · Computer Vision · Full-Stack Web Development
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Latest_Portfolio-24292F?style=for-the-badge)](https://mahimkatha02.github.io/mahim-katha-portfolio)
+
+[![Live Portfolio](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge)](https://mahimkatha02.github.io/mahim-katha-portfolio)
+
+[![Purple Daze](https://img.shields.io/badge/🛍️_Purple_Daze-5B3FD0?style=for-the-badge)](https://purple-daze.vercel.app)
+
+[![Website](https://img.shields.io/badge/Live_Website-7C3AED?style=for-the-badge)](https://purple-daze.vercel.app)
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahim-chowdhury-katha02)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinthiyakotha870@gmail.com)
+
+</div>
 
 <a href="https://mahim-katha-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Latest_Portfolio-Live-0A192F?style=for-the-badge" />
@@ -14,7 +33,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/mahim-chowdhury-katha02">
+<!-- <a href="https://www.linkedin.com/in/mahim-chowdhury-katha02">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -22,7 +41,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
