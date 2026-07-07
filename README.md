@@ -4,6 +4,7 @@
 ### BSc CSE (Data Science) Graduate · Machine Learning · Computer Vision · Full-Stack Web Development
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 
+![Typing Animation](https://waveify.onrender.com/api/typing/classic?text=Welcome+to+my+Git%21&speed=65&color=%23ffffff&backgroundColor=%231a1a1a&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=false&cursorColor=%23000000&type=classic&prompt=&repeat=true&glowEffect=true&easing=linear)
 
 
 <a href="https://mahim-katha-portfolio.vercel.app">
