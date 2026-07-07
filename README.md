@@ -85,8 +85,8 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **🌐 Latest Portfolio Website**<br>https://mahim-katha-portfolio.vercel.app | Modern responsive portfolio built using React, TypeScript and Tailwind CSS featuring projects, certifications and experience. | React, TypeScript, Tailwind CSS, Motion, Vite |
-| **🛍 Purple Daze Business Website**<br>https://purple-daze.vercel.app | Designed and developed a complete luxury fashion, beauty & lifestyle business website with ordering workflow, responsive UI, shopping directory and smooth animations. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
+| [Latest Portfolio Website](https://mahim-katha-portfolio.vercel.app) | Modern responsive portfolio built using React, TypeScript and Tailwind CSS featuring projects, certifications and experience. | React, TypeScript, Tailwind CSS, Motion, Vite |
+| [My Business Website](https://purple-daze.vercel.app) | Designed and developed a complete luxury fashion, beauty & lifestyle business website with ordering workflow, responsive UI, shopping directory and smooth animations. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
 | [My First Portfolio Website](https://github.com/MahimKatha02/mahim-katha-portfolio) | A responsive personal portfolio website showcasing my profile, technical skills, featured projects, and front-end development experience through a clean and modern user interface. | HTML, CSS, TypeScript |
 | [Wall Crack Detection](https://github.com/MahimKatha02/wallCrackWith2datasets) | Researched automated structural defect detection; implemented a CNN-based feature extraction pipeline with a documented research report. | Python, CNN, Image Processing |
 | [Rice Varieties Classification](https://github.com/MahimKatha02/RiceVarietiesBangladesh_Classification_CSE475_Project) | Built a multi-class ML classifier with a full preprocessing pipeline, evaluated using confusion matrix metrics. | Python, Scikit-learn |
