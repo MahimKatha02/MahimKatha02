@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/🛍️_Purple_Daze-Live_Website-8B5CF6?style=for-the-badge" />
 </a>
 
+<a href="https://arctic-daze.vercel.app">
+  <img src="https://img.shields.io/badge/👔_Arctic_Daze-Live_Website-0F766E?style=for-the-badge" />
+</a>
+
 <br><br>
 
 <a href="https://www.linkedin.com/in/mahim-chowdhury-katha02">
@@ -39,7 +43,7 @@
 - Hands-on experience in Machine Learning, Deep Learning, and Computer Vision
 - Completed 5 AI/ML research projects and 3 certifications, with 4 more in progress
 - Founder of Purple Daze, a self-funded e-commerce business (2.7+ years) — brings entrepreneurial drive, leadership, and operational experience
-- Designed and developed the official Purple Daze business website using React, TypeScript, Tailwind CSS, Motion and TanStack Router
+- Designed and developed the official Purple Daze and Arctic Daze business websites using React, TypeScript, Tailwind CSS, Motion and TanStack Router
 - Seeking postgraduate or professional opportunities in Artificial Intelligence and Data Science
 
 ---
@@ -50,6 +54,7 @@
 |----------|-------------|-----------|
 | **Latest Portfolio** | Modern personal portfolio showcasing my projects, certifications, skills and experience. | https://mahim-katha-portfolio.vercel.app |
 | **Purple Daze** | Official luxury fashion, beauty & lifestyle e-commerce website for my own business. | https://purple-daze.vercel.app |
+| **Arctic Daze** | Premium men's fashion sourcing website featuring Malaysian brands, curated collections, shopping directory and ordering workflow. | https://arctic-daze.vercel.app |
 
 ---
 
@@ -93,7 +98,8 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | [Latest Portfolio Website](https://mahim-katha-portfolio.vercel.app) | Modern responsive portfolio built using React, TypeScript and Tailwind CSS featuring projects, certifications and experience. | React, TypeScript, Tailwind CSS, Motion, Vite |
-| [My Business Website](https://purple-daze.vercel.app) | Designed and developed a complete luxury fashion, beauty & lifestyle business website with ordering workflow, responsive UI, shopping directory and smooth animations. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
+| [Arctic Daze](https://arctic-daze.vercel.app) | Designed and developed a premium men's fashion sourcing website focused on authentic Malaysian brands. Features curated collections, shopping website directory, animated ordering timeline, responsive UI and seamless Facebook & WhatsApp ordering. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
+| [Purple Daze](https://purple-daze.vercel.app) | Designed and developed a complete luxury fashion, beauty & lifestyle business website with ordering workflow, responsive UI, shopping directory and smooth animations. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
 | [My First Portfolio Website](https://github.com/MahimKatha02/mahim-katha-portfolio) | A responsive personal portfolio website showcasing my profile, technical skills, featured projects, and front-end development experience through a clean and modern user interface. | HTML, CSS, TypeScript |
 | [Wall Crack Detection](https://github.com/MahimKatha02/wallCrackWith2datasets) | Researched automated structural defect detection; implemented a CNN-based feature extraction pipeline with a documented research report. | Python, CNN, Image Processing |
 | [Rice Varieties Classification](https://github.com/MahimKatha02/RiceVarietiesBangladesh_Classification_CSE475_Project) | Built a multi-class ML classifier with a full preprocessing pipeline, evaluated using confusion matrix metrics. | Python, Scikit-learn |
@@ -129,7 +135,7 @@
 - Computer Vision Research
 - Cisco Networking & Network Security
 - Full-Stack React Applications
-- Expanding Purple Daze E-commerce Platform
+- - Expanding Purple Daze & Arctic Daze e-commerce platforms
 
 ---
 
@@ -161,6 +167,10 @@
 
 <a href="https://purple-daze.vercel.app">
 <img src="https://img.shields.io/badge/🛍️_Purple_Daze-Website-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="https://arctic-daze.vercel.app">
+<img src="https://img.shields.io/badge/👔_Arctic_Daze-Website-0F766E?style=for-the-badge"/>
 </a>
 
 <br><br>
