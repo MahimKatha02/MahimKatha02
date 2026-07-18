@@ -44,6 +44,7 @@
 - Completed 5 AI/ML research projects and 3 certifications, with 4 more in progress
 - Founder of Purple Daze, a self-funded e-commerce business (2.7+ years) — brings entrepreneurial drive, leadership, and operational experience
 - Designed and developed the official Purple Daze and Arctic Daze business websites using React, TypeScript, Tailwind CSS, Motion and TanStack Router
+- Developed a production-ready WooCommerce plugin following WordPress coding standards and plugin development best practices
 - Seeking postgraduate or professional opportunities in Artificial Intelligence and Data Science
 
 ---
@@ -68,12 +69,20 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+
 ## Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## WordPress Development
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge)
 
 ### Latest Stack
 
@@ -136,7 +145,8 @@
 - Computer Vision Research
 - Cisco Networking & Network Security
 - Full-Stack React Applications
-- - Expanding Purple Daze & Arctic Daze e-commerce platforms
+- Expanding Purple Daze & Arctic Daze e-commerce platforms
+- WordPress & WooCommerce Plugin Development
 
 ---
 
