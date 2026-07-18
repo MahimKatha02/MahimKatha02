@@ -97,6 +97,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [Antigravity Purchase Notifications for WooCommerce](https://github.com/MahimKatha02/WooCommerce-Purchase-Notifications) | Developed a production-ready WordPress plugin that displays authentic recent purchase notifications using WooCommerce order data. Features AJAX loading, responsive notification cards, caching, privacy-focused controls, customizable animations, HPOS compatibility, and WordPress coding standards. Successfully passed the WordPress.org automated plugin scan and is currently awaiting manual review. | PHP, WordPress, WooCommerce, AJAX, JavaScript, CSS |
 | [Latest Portfolio Website](https://mahim-katha-portfolio.vercel.app) | Modern responsive portfolio built using React, TypeScript and Tailwind CSS featuring projects, certifications and experience. | React, TypeScript, Tailwind CSS, Motion, Vite |
 | [Arctic Daze](https://arctic-daze.vercel.app) | Designed and developed a premium men's fashion sourcing website focused on authentic Malaysian brands. Features curated collections, shopping website directory, animated ordering timeline, responsive UI and seamless Facebook & WhatsApp ordering. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
 | [Purple Daze](https://purple-daze.vercel.app) | Designed and developed a complete luxury fashion, beauty & lifestyle business website with ordering workflow, responsive UI, shopping directory and smooth animations. | React, TypeScript, Tailwind CSS, Motion, TanStack Router |
